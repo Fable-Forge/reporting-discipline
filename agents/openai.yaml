@@ -1,0 +1,4 @@
+interface:
+  display_name: "Reporting Discipline"
+  short_description: "Keep reports concise and evidence-focused."
+  default_prompt: "Use reporting discipline to summarize findings without dumping large raw outputs."
